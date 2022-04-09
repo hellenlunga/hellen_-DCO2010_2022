@@ -14,3 +14,14 @@ Superposição ou soma linear de 2 sinais, com amplitude 2.
 
 24.b. Qual o comportamento do sinal na frequência (verifique e descreva o comportamento no analisador de espectro virtual)?
 No slowgraph podemos observar as raias centradas nas frequências de 100Hz e 5000Hz.
+
+27.a. O que pode ser concluído ao analisar o sinal no domínio da frequência (analise em uma das bandas laterais, passando a seta do mouse sobre os picos)?
+A multiplicação resultou em um AM-DSB-SC.
+
+27.b. Existe alguma explicação matemática para esse comportamento?
+A distancia entre as envoltórias varia proporcionalmente ao valor instantâneo do sinal modulante, pois as duas envoltórias tem a mesma forma mas fases opostas. 
+
+27.c. Ao analisar o sinal de saída no tempo, mesmo que não tenhamos como distinguir bem como estão às frequências, podemos perceber certo padrão no comportamento das amplitudes que compõe o sinal. Que padrão é esse? Esse padrão equivale a qual tipo de modulação?
+As envoltórias se cruzam no eixo de amplitude zero e nesse ponto de passagem o sinal composto sofre INVERSÂO de fase. Esse padrão equivale a modulação AM-DSB-SC.
+
+
